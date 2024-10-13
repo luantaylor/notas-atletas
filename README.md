@@ -1,4 +1,4 @@
-# Projeto de certificação 1
+# 🎓 Projeto de certificação 1 - Notas dos atletas
 
 ## Resumo do projeto
 
